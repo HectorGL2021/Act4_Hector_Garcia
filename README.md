@@ -2,7 +2,6 @@
 
 **Autor:** Héctor García  
 **Universidad:** UNIR  
-**Asignatura:** DevOps  
 **Fecha:** Marzo 2026
 
 ---
